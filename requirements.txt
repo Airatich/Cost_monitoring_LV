@@ -1,0 +1,11 @@
+selenium
+pandas
+bs4
+openpyxl
+lxml
+packaging
+webdriver_manager
+ipywidgets
+html5lib
+tqdm
+datetime
